@@ -21,7 +21,7 @@
 3. （可选）通知   
     3.1. SERVERCHAN 通知：Secret 新增`SERVERCHAN_SENDKEY`，获取方法请[查看文档](https://sct.ftqq.com/)。   
     3.2. 钉钉群机器人通知：Secret 新增`DINGTALK_ROBOT_SECRET` 和 `DINGTALK_ROBOT_TOKEN`，获取方法请查看[「钉钉机器人」](https://developers.dingtalk.com/document/robots/custom-robot-access)。注意，需要[加签](https://developers.dingtalk.com/document/robots/customize-robot-security-settings/title-7fs-kgs-36x)。   
-4. `Fork` 后必须修改一下文件，才能执行定时任务, 可修改 `README.md`。
+4. `Fork` 后必须修改一下文件，才能执行定时任务, 可修改 `README.md`。更改执行
 
 
 ### 3. 其它
